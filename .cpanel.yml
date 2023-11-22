@@ -1,0 +1,20 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/qfpuksur/public_html/ft8.co.za/curmo
+    - /bin/cp -R html $DEPLOYPATH
+    - /bin/cp -R sg_aboutus_media $DEPLOYPATH
+    - /bin/cp -R sg_contact_media $DEPLOYPATH
+    - /bin/cp -R sg_directors_media $DEPLOYPATH
+    - /bin/cp -R sg_home_media $DEPLOYPATH
+    - /bin/cp -R sg_jscripts $DEPLOYPATH
+    - /bin/cp -R sg_materials_media $DEPLOYPATH
+    - /bin/cp -R sg_matetrial_media $DEPLOYPATH
+    - /bin/cp -R sg_products_media $DEPLOYPATH
+    - /bin/cp -R sg_project_media $DEPLOYPATH
+    - /bin/cp -R sg_research_media $DEPLOYPATH
+    - /bin/cp -R sg_thankyou_media $DEPLOYPATH
+    - /bin/cp -R sg_training_media $DEPLOYPATH
+    - /bin/cp -R sg_userfiles_media $DEPLOYPATH
+    - /bin/cp *.* $DEPLOYPATH
+    
