@@ -15,6 +15,6 @@ deployment:
     - /bin/cp -R sg_research_media $DEPLOYPATH
     - /bin/cp -R sg_thankyou_media $DEPLOYPATH
     - /bin/cp -R sg_training_media $DEPLOYPATH
-    - /bin/cp -R sg_userfiles_media $DEPLOYPATH
+    - /bin/cp -R sg_userfiles $DEPLOYPATH
     - /bin/cp *.* $DEPLOYPATH
     
