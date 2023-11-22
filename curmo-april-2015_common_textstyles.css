@@ -1,0 +1,558 @@
+.standardtext p,
+.productstext p,
+.i312about2text p,
+.willemtext p,
+.adrestext p,
+.shouldyourequirefurtherin li,
+.modeltext li,
+.contact3text li,
+.i65about2text p,
+.externaltext p,
+.maritatext li,
+.ruraltext li,
+.projectstext p,
+.i311about1text li,
+.i65about2text li,
+.i430materialtext p,
+.skillstext p,
+.possibletext p,
+.i311about1text p,
+.productstext li,
+.trainingtext li,
+.i396farmtext p,
+.hourtext p,
+.i430materialtext li,
+.ruraltext p,
+.missiontext li,
+.contact3text p,
+.qualifactions1text p,
+.adrestext li,
+.shouldyourequirefurtherin p,
+.projectstext li,
+.i394farmtext li,
+.i71about1text p,
+.maritatext p,
+.i394farmtext p,
+.trainingtext p,
+.i71about1text li,
+.businesstext p,
+.orderform li,
+.skillstext li,
+.thankyoutext p,
+.i180materialtext li,
+.orderform p,
+.standardtext li,
+.contacttext p,
+.research3text p,
+.research2text p,
+.research1text p,
+.i180materialtext p,
+.missiontext p,
+.possibletext li,
+.externaltext li,
+.willemtext li,
+.modeltext p,
+.hourtext li,
+.businesstext li,
+.research3text li,
+.research2text li,
+.research1text li,
+.thankyoutext li,
+.qualifactions1text li,
+.contacttext li,
+.i396farmtext li,
+.i312about2text li  {
+   padding: 0px;
+   margin: 0px;
+   font-size: 14px;
+   font-style: normal;
+   line-height: 17px;
+   letter-spacing: 0px;
+   font-variant: normal;
+   text-decoration: none;
+   color: #200E65;
+   text-indent: 0px;
+   text-align: justify;
+}
+
+.designedtext li,
+.designedtext p,
+.designed4text li,
+.designed3text li,
+.copy3text p,
+.copy4text p,
+.i17home3text li,
+.i17home3text p,
+.copy4text li,
+.copy3text li,
+.i313home3text p,
+.copytext li,
+.designed3text p,
+.designed4text p,
+.copytext p,
+.i313home3text li  {
+   font: normal 500 12px/14px Futura, sans-serif;
+   padding: 0px;
+   margin: 0px;
+   color: #FFFFFF;
+   text-decoration: none;
+   font-variant: normal;
+   letter-spacing: 0px;
+   text-indent: 0px;
+   text-align: left;
+}
+
+.developmenttext p,
+.contact1text li,
+.developmenttext li,
+.contact1text p  {
+   padding: 0px;
+   margin: 0px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: normal;
+   line-height: 16px;
+   letter-spacing: 0px;
+   font-variant: normal;
+   text-decoration: none;
+   color: #200E65;
+   text-indent: 0px;
+}
+
+.designedtext p a,
+.designed3text p a,
+.copy3text p a,
+.copytext p a  {
+   display: inline;
+}
+
+.i69about2text p,
+.i69about2text li  {
+   font: normal bold 16px/19px Arial, Helvetica, sans-serif;
+   padding: 0px;
+   margin: 0px;
+   letter-spacing: 0px;
+   text-transform: uppercase;
+   text-decoration: none;
+   color: #044364;
+   text-indent: 0px;
+   text-align: left;
+}
+
+.shouldyourequirefurtherin li  {
+   font-family: Futura, sans-serif;
+   font-weight: 300;
+}
+
+.shouldyourequirefurtherin p  {
+   font-family: Futura, sans-serif;
+   font-weight: 300;
+}
+
+.qualifactions1text li  {
+   font-weight: 300;
+   font-family: Futura, sans-serif;
+}
+
+.qualifactions1text p  {
+   font-weight: 300;
+   font-family: Futura, sans-serif;
+}
+
+.i180materialtext li  {
+   font-family: Futura, sans-serif;
+   font-weight: 500;
+}
+
+.i430materialtext li  {
+   font-weight: 500;
+   font-family: Futura, sans-serif;
+}
+
+.i430materialtext p  {
+   font-weight: 500;
+   font-family: Futura, sans-serif;
+}
+
+.i180materialtext p  {
+   font-family: Futura, sans-serif;
+   font-weight: 500;
+}
+
+.developmenttext li  {
+   text-align: justify;
+   font-style: italic;
+   font-size: 13px;
+}
+
+.i311about1text li  {
+   font-weight: 300;
+   font-family: Futura, sans-serif;
+   color: #044364;
+}
+
+.developmenttext p  {
+   text-align: justify;
+   font-style: italic;
+   font-size: 13px;
+}
+
+.i312about2text li  {
+   font-family: Futura, sans-serif;
+   font-size: 13px;
+   font-weight: 500;
+   line-height: 16px;
+   color: #044364;
+}
+
+.i71about1text li  {
+   font-family: Futura, sans-serif;
+   font-weight: 300;
+}
+
+.i311about1text p  {
+   font-weight: 300;
+   font-family: Futura, sans-serif;
+   color: #044364;
+}
+
+.i312about2text p  {
+   font-family: Futura, sans-serif;
+   font-size: 13px;
+   font-weight: 500;
+   line-height: 16px;
+   color: #044364;
+}
+
+.i65about2text li  {
+   font-weight: 300;
+   font-family: Futura, sans-serif;
+}
+
+.research1text li  {
+   font-weight: 500;
+   font-family: Futura, sans-serif;
+}
+
+.i313home3text li  {
+   line-height: 16px;
+   font-size: 13px;
+   letter-spacing: 2px;
+   color: #044364;
+}
+
+.research2text li  {
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: normal;
+}
+
+.research3text li  {
+   font-weight: normal;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.research3text p  {
+   font-weight: normal;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.standardtext li  {
+   font-weight: 300;
+   font-family: Futura, sans-serif;
+}
+
+.trainingtext li  {
+   font-weight: normal;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.i71about1text p  {
+   font-family: Futura, sans-serif;
+   font-weight: 300;
+}
+
+.i65about2text p  {
+   font-weight: 300;
+   font-family: Futura, sans-serif;
+}
+
+.possibletext li  {
+   font-weight: normal;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.i17home3text li  {
+   text-transform: uppercase;
+   line-height: 16px;
+   font-size: 13px;
+   letter-spacing: 2px;
+   color: #044364;
+}
+
+.projectstext li  {
+   line-height: 24px;
+   font-weight: normal;
+   font-family: Arial, Helvetica, sans-serif;
+   text-align: left;
+}
+
+.businesstext li  {
+   font-family: Futura, sans-serif;
+   font-weight: 300;
+   text-align: left;
+}
+
+.i396farmtext li  {
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: normal;
+}
+
+.externaltext li  {
+   font-weight: normal;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.productstext li  {
+   font-weight: normal;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.research1text p  {
+   font-weight: 500;
+   font-family: Futura, sans-serif;
+}
+
+.thankyoutext li  {
+   font-family: Futura, sans-serif;
+   font-size: 18px;
+   font-weight: 500;
+   line-height: 22px;
+   text-align: center;
+}
+
+.research2text p  {
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: normal;
+}
+
+.i394farmtext li  {
+   text-transform: uppercase;
+   font-weight: bold;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.i313home3text p  {
+   line-height: 16px;
+   font-size: 13px;
+   letter-spacing: 2px;
+   color: #044364;
+}
+
+.contact1text li  {
+   text-align: left;
+   font-size: 18px;
+   font-style: normal;
+}
+
+.contact3text li  {
+   font-weight: 500;
+   font-family: Futura, sans-serif;
+}
+
+.thankyoutext p  {
+   font-family: Futura, sans-serif;
+   font-size: 18px;
+   font-weight: 500;
+   line-height: 22px;
+   text-align: center;
+}
+
+.projectstext p  {
+   line-height: 24px;
+   font-weight: normal;
+   font-family: Arial, Helvetica, sans-serif;
+   text-align: left;
+}
+
+.i396farmtext p  {
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: normal;
+}
+
+.standardtext p  {
+   font-weight: 300;
+   font-family: Futura, sans-serif;
+}
+
+.trainingtext p  {
+   font-weight: normal;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.possibletext p  {
+   font-weight: normal;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.i17home3text p  {
+   text-transform: uppercase;
+   line-height: 16px;
+   font-size: 13px;
+   letter-spacing: 2px;
+   color: #044364;
+}
+
+.businesstext p  {
+   font-family: Futura, sans-serif;
+   font-weight: 300;
+   text-align: left;
+}
+
+.missiontext li  {
+   font-family: Futura, sans-serif;
+   font-weight: 300;
+   text-align: left;
+}
+
+.contacttext li  {
+   font-weight: 500;
+   font-family: Futura, sans-serif;
+}
+
+.contact3text p  {
+   font-weight: 500;
+   font-family: Futura, sans-serif;
+}
+
+.productstext p  {
+   font-weight: normal;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.contact1text p  {
+   text-align: left;
+   font-size: 18px;
+   font-style: normal;
+}
+
+.externaltext p  {
+   font-weight: normal;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.i394farmtext p  {
+   text-transform: uppercase;
+   font-weight: bold;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.maritatext li  {
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: normal;
+}
+
+.missiontext p  {
+   font-family: Futura, sans-serif;
+   font-weight: 300;
+   text-align: left;
+}
+
+.willemtext li  {
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: normal;
+}
+
+.skillstext li  {
+   font-weight: 300;
+   font-family: Futura, sans-serif;
+}
+
+.contacttext p  {
+   font-weight: 500;
+   font-family: Futura, sans-serif;
+}
+
+.maritatext p  {
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: normal;
+}
+
+.ruraltext li  {
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: normal;
+}
+
+.orderform li  {
+   font-weight: normal;
+   font-family: Arial, Helvetica, sans-serif;
+   text-align: left;
+   color: #2A1771;
+}
+
+.modeltext li  {
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: normal;
+}
+
+.skillstext p  {
+   font-weight: 300;
+   font-family: Futura, sans-serif;
+}
+
+.willemtext p  {
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: normal;
+}
+
+.adrestext li  {
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: normal;
+   line-height: 16px;
+}
+
+.adrestext p  {
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: normal;
+   line-height: 16px;
+}
+
+.orderform p  {
+   font-weight: normal;
+   font-family: Arial, Helvetica, sans-serif;
+   text-align: left;
+   color: #2A1771;
+}
+
+.modeltext p  {
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: normal;
+}
+
+.hourtext li  {
+   text-align: center;
+   font-weight: bold;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.ruraltext p  {
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: normal;
+}
+
+.hourtext p  {
+   text-align: center;
+   font-weight: bold;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+h4,
+h5,
+body, p,
+h6,
+h1,
+h2,
+h3  {
+   font-family: Futura, sans-serif;
+}
+

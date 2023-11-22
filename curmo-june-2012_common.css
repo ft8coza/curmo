@@ -1,0 +1,685 @@
+#aboutbutton a.pm,
+#researchbutton div a.nmh,
+#directorbutton div a:hover,
+#aboutbutton a.pmh,
+#aboutbutton a:hover,
+#researchbutton div a:hover,
+#directorbutton div a.nmh,
+#aboutbutton a.nmh  {
+   background-position: -108px 0%;
+}
+
+#orderform fieldset div label,
+#orderform fieldset legend,
+#orderform fieldset div input,
+#orderform fieldset div textarea,
+#orderform input[type=submit]  {
+   font: normal 500 14px/17px Futura, sans-serif;
+   color: #2A1771;
+   text-decoration: none;
+   font-variant: normal;
+   letter-spacing: 0px;
+}
+
+#trainingbutton div a.nmh,
+#productsbutton a.pm,
+#trainingbutton div a:hover,
+#productsbutton a:hover,
+#productsbutton a.pmh,
+#productsbutton a.nmh  {
+   background-position: -179px 0%;
+}
+
+#layer12copy3,
+#layer12copy6,
+#layer12copy7,
+#layer12copy4,
+#layer12copy5,
+#layer12copy17,
+#layer3,
+#layer12copy8  {
+   position: absolute;
+   left: 48px;
+   top: 312px;
+   z-index: 6;
+   width: 289px;
+   height: 26px;
+   margin-left: 0px;
+   margin-top: 0px;
+   background-repeat: no-repeat;
+}
+
+#trainingbutton > div:first-child,
+#researchbutton > div:first-child,
+#directorbutton > div:first-child  {
+   top: 0px;
+   left: 0px;
+   padding: 0px;
+   margin: 0px;
+   position: relative;
+   display: block;
+   height: 38px;
+}
+
+#layer12copy12,
+#layer12copy14,
+#layer12copy11,
+#layer12copy10  {
+   background: url(sg_matetrial_media/layer12copy14.gif) no-repeat;
+   position: absolute;
+   left: 46px;
+   z-index: 5;
+   width: 209px;
+   height: 26px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#directorbutton div a,
+#researchbutton div a,
+#aboutbutton a  {
+   background-repeat: no-repeat;
+   display: block;
+   height: 38px;
+   width: 108px;
+   font-size: 38px;
+   line-height: 38px;
+}
+
+#cvwillembutton,
+#cvpetrusbutton,
+#cvmaritabutton  {
+   line-height: 18px;
+   font-weight: 500;
+   font-size: 15px;
+   font-family: Futura, sans-serif;
+   text-align: justify;
+   position: absolute;
+   left: 356px;
+   z-index: 5;
+   width: 138px;
+   height: 13px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#materialbutton a:hover,
+#materialbutton a.nmh  {
+   background-position: -195px 0%;
+}
+
+#projectsbutton a.nmh,
+#projectsbutton a:hover  {
+   background-position: -164px 0%;
+}
+
+#contactbutton a.nmh,
+#contactbutton a:hover  {
+   background-position: -113px 0%;
+}
+
+#trainingbutton div a,
+#productsbutton a  {
+   background-repeat: no-repeat;
+   display: block;
+   height: 38px;
+   width: 179px;
+   font-size: 38px;
+   line-height: 38px;
+}
+
+#homebutton a:hover,
+#homebutton a.nmh  {
+   background-position: -68px 0%;
+}
+
+#cvwillembuttoncopy2,
+#coursebutton  {
+   line-height: 18px;
+   font-weight: 500;
+   font-size: 15px;
+   font-family: Futura, sans-serif;
+   text-align: justify;
+   position: absolute;
+   z-index: 5;
+   height: 11px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#researchbutton > div:first-child  {
+   width: 108px;
+}
+
+#trainingbutton > div:first-child  {
+   width: 179px;
+}
+
+#directorbutton > div:first-child  {
+   width: 108px;
+}
+
+#researchbutton,
+#directorbutton  {
+   overflow: hidden;
+   position: absolute;
+   left: 116px;
+   width: 108px;
+   height: 38px;
+   display: none;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#report1button,
+#report2button  {
+   line-height: 18px;
+   font-weight: 500;
+   font-size: 15px;
+   font-family: Futura, sans-serif;
+   text-align: justify;
+   position: absolute;
+   z-index: 5;
+   width: 81px;
+   height: 12px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#orderform input[type=submit]  {
+   font-size: 12px;
+   line-height: 14px;
+}
+
+#contacttext,
+#materialtext  {
+   position: absolute;
+   left: 69px;
+   top: 366px;
+   z-index: 6;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#layer12copy2,
+#layer12copy  {
+   background: url(sg_aboutus_media/layer12copy2.gif) no-repeat;
+   position: absolute;
+   left: 48px;
+   z-index: 5;
+   width: 289px;
+   height: 26px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#homebutton,
+#aboutbutton  {
+   position: absolute;
+   top: 208px;
+   z-index: 7;
+   height: 38px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#maritatext,
+#petrustext  {
+   position: absolute;
+   left: 356px;
+   z-index: 5;
+   width: 459px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#trainingbutton div a  {
+   background-image: url(sg_training_media/trainingbutton.gif);
+}
+
+#materialg,
+#aboutusg  {
+   position: absolute;
+   left: 69px;
+   top: 317px;
+   z-index: 7;
+   height: 15px;
+   margin-left: 0px;
+   margin-top: 0px;
+   background-repeat: no-repeat;
+}
+
+#directorbutton div a  {
+   background-image: url(sg_training_media/directorbutton.gif);
+}
+
+#copytext,
+#copy4text  {
+   position: absolute;
+   left: 70px;
+   z-index: 4;
+   width: 288px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#cvwillembuttoncopy2  {
+   width: 85px;
+   top: 1166px;
+   left: 69px;
+}
+
+#productsbutton a  {
+   background-image: url(sg_training_media/productsbutton.gif);
+}
+
+#materialbutton a  {
+   background: url(sg_training_media/materialbutton.gif) no-repeat;
+   display: block;
+   height: 38px;
+   width: 195px;
+   font-size: 38px;
+   line-height: 38px;
+}
+
+#projectsbutton a  {
+   background: url(sg_training_media/projectsbutton.gif) no-repeat;
+   display: block;
+   height: 38px;
+   width: 164px;
+   font-size: 38px;
+   line-height: 38px;
+}
+
+#contactbutton a  {
+   background: url(sg_training_media/contactbutton.gif) no-repeat;
+   display: block;
+   height: 38px;
+   width: 113px;
+   font-size: 38px;
+   line-height: 38px;
+}
+
+#materialbutton  {
+   position: absolute;
+   left: 567px;
+   top: 208px;
+   z-index: 10;
+   width: 195px;
+   height: 38px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#cvpetrusbutton  {
+   top: 1042px;
+}
+
+#projectsbutton  {
+   position: absolute;
+   left: 403px;
+   top: 208px;
+   z-index: 9;
+   width: 164px;
+   height: 38px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#productsbutton  {
+   position: absolute;
+   left: 224px;
+   top: 208px;
+   z-index: 8;
+   width: 179px;
+   height: 38px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#directorbutton  {
+   z-index: 6;
+   top: 248px;
+}
+
+#researchbutton  {
+   z-index: 8;
+   top: 289px;
+}
+
+#cvmaritabutton  {
+   top: 746px;
+}
+
+#trainingbutton  {
+   overflow: hidden;
+   position: absolute;
+   left: 224px;
+   top: 248px;
+   z-index: 7;
+   width: 179px;
+   height: 38px;
+   display: none;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#cvwillembutton  {
+   top: 434px;
+}
+
+#designed3text  {
+   position: absolute;
+   left: 651px;
+   top: 1340px;
+   z-index: 4;
+   width: 228px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#contactbutton  {
+   position: absolute;
+   left: 762px;
+   top: 208px;
+   z-index: 11;
+   width: 113px;
+   height: 38px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#layer12copy12  {
+   top: 1547px;
+}
+
+#layer12copy10  {
+   top: 653px;
+}
+
+#report1button  {
+   top: 2325px;
+   left: 227px;
+}
+
+#aboutbutton a  {
+   background-image: url(sg_training_media/aboutbutton.gif);
+}
+
+#layer12copy14  {
+   top: 1868px;
+}
+
+#layer12copy11  {
+   top: 1377px;
+}
+
+#report2button  {
+   top: 2353px;
+   left: 228px;
+}
+
+#designed4text  {
+   position: absolute;
+   left: 653px;
+   top: 2444px;
+   z-index: 4;
+   width: 228px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#layer12copy17  {
+   background-image: url(sg_project_media/layer12copy2.gif);
+}
+
+#layer12copy4  {
+   background-image: url(sg_project_media/layer12copy2.gif);
+}
+
+#materialtext  {
+   width: 402px;
+}
+
+#layer12copy8  {
+   background-image: url(sg_project_media/layer12copy2.gif);
+}
+
+#layer12copy7  {
+   background-image: url(sg_project_media/layer12copy2.gif);
+}
+
+#layer12copy2  {
+   top: 931px;
+}
+
+#homebutton a  {
+   background: url(sg_training_media/homebutton.gif) no-repeat;
+   display: block;
+   height: 38px;
+   width: 68px;
+   font-size: 38px;
+   line-height: 38px;
+}
+
+#layer12copy3  {
+   background-image: url(sg_directors_media/layer12copy2.gif);
+}
+
+#layer12copy6  {
+   background-image: url(sg_training_media/layer12copy2.gif);
+}
+
+#page_content  {
+   min-height: 1390px;
+}
+
+#layer12copy5  {
+   background-image: url(sg_products_media/layer12copy2.gif);
+}
+
+#coursebutton  {
+   width: 216px;
+   top: 1108px;
+   left: 70px;
+}
+
+#designedtext  {
+   position: absolute;
+   left: 649px;
+   top: 842px;
+   z-index: 4;
+   width: 228px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#topbannerimg  {
+   background: url(sg_products_media/topbannerimg.gif) no-repeat;
+   position: absolute;
+   left: 47px;
+   top: 0px;
+   z-index: 5;
+   width: 853px;
+   height: 375px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#contacttext  {
+   width: 779px;
+}
+
+#aboutbutton  {
+   width: 108px;
+   left: 116px;
+}
+
+#layer12copy  {
+   top: 717px;
+}
+
+#maritatext  {
+   top: 665px;
+}
+
+#petrustext  {
+   top: 941px;
+}
+
+#topbkg1img  {
+   background: url(sg_home_media/topbkg1img.gif) no-repeat;
+   position: absolute;
+   left: 44px;
+   top: 299px;
+   z-index: 5;
+   width: 856px;
+   height: 365px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#homebutton  {
+   width: 68px;
+   left: 47px;
+}
+
+#copy4text  {
+   top: 2444px;
+}
+
+#copy3text  {
+   position: absolute;
+   left: 68px;
+   top: 1340px;
+   z-index: 4;
+   width: 288px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#materialg  {
+   background-image: url(sg_matetrial_media/materialg.gif);
+   width: 212px;
+}
+
+#long2img  {
+   position: absolute;
+   left: 42px;
+   z-index: 4;
+   width: 858px;
+   margin-left: 0px;
+   margin-top: 0px;
+   background-repeat: no-repeat;
+}
+
+#aboutusg  {
+   background-image: url(sg_aboutus_media/aboutusg.gif);
+   width: 219px;
+}
+
+#shortimg  {
+   background: url(sg_home_media/shortimg.gif) no-repeat;
+   position: absolute;
+   left: 62px;
+   top: 516px;
+   z-index: 4;
+   width: 803px;
+   height: 311px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#stripimg  {
+   background: url(sg_training_media/stripimg.gif) no-repeat;
+   position: absolute;
+   left: 0px;
+   top: 208px;
+   z-index: 6;
+   width: 900px;
+   height: 38px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#copytext  {
+   top: 843px;
+}
+
+#longimg  {
+   background: url(sg_aboutus_media/longimg.gif) no-repeat;
+   position: absolute;
+   left: 43px;
+   top: 309px;
+   z-index: 4;
+   width: 857px;
+   height: 1016px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#layer3  {
+   background-image: url(sg_aboutus_media/layer12copy2.gif);
+}
+
+.page_content_bkg  {
+   position: absolute;
+   z-index: 1;
+   width: 900px;
+   height: 1390px;
+   left: 0px;
+   top: 0px;
+   display: block;
+}
+
+.container_div  {
+   margin: 0px auto 0px auto;
+   width: 900px;
+   position: relative;
+}
+
+.spacing_div  {
+   height: 0px;
+   min-height: 0px;
+}
+
+.full_width  {
+   min-width: 900px;
+   margin: 0px;
+   padding: 0px;
+   position: relative;
+}
+
+*:focus  {
+   outline-style: none;
+}
+
+.c66FECB a  {
+   color: #66FECB;
+}
+
+.c80DEBF a  {
+   color: #80DEBF;
+}
+
+ains  {
+   text-decoration: none;
+}
+
+a.nm  {
+   background-position: 0px 0px;
+}
+
+html, body  {
+   background: #FFFFFF url(sg_training_media/browserbackground.gif) center top repeat;
+   background-attachment: scroll;
+   height: 100%;
+}
+
+body  {
+   padding: 0px;
+   margin: 0px;
+   height: 100%;
+   -webkit-text-size-adjust: none;
+}
+

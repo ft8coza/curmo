@@ -1,0 +1,15 @@
+.modeltext p a,
+.externaltext p a,
+.possibletext p a,
+.ruraltext p a,
+.i396farmtext p a,
+.designed4text p a,
+.i394farmtext p a,
+.research1text p a,
+.research2text p a,
+.research3text p a,
+.copy4text p a,
+.developmenttext p a  {
+   display: inline;
+}
+

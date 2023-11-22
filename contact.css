@@ -1,0 +1,117 @@
+#orderform fieldset div.centerac *  {
+   min-width: 181px;
+}
+
+#orderform fieldset *:last-child  {
+   padding-bottom: 0;
+}
+
+#orderform input[type=submit]  {
+   padding: 0px;
+}
+
+#orderform fieldset div  {
+   margin-bottom: 0px;
+   margin-top: 0px;
+   clear: both;
+}
+
+#trainingbutton div a  {
+   background-image: url(sg_contact_media/trainingbutton.gif);
+}
+
+#researchbutton div a  {
+   background-image: url(sg_contact_media/researchbutton.gif);
+}
+
+#directorbutton div a  {
+   background-image: url(sg_contact_media/directorbutton.gif);
+}
+
+#contact1text  {
+   margin-top: 0px;
+   margin-left: 0px;
+   width: 587px;
+   z-index: 6;
+   top: 398px;
+   left: 218px;
+   position: absolute;
+}
+
+#page_content  {
+   min-height: 1228px;
+}
+
+#contact3text  {
+   margin-top: 0px;
+   margin-left: 0px;
+   width: 776px;
+   z-index: 5;
+   top: 1116px;
+   left: 82px;
+   position: absolute;
+}
+
+#orderform  {
+   margin-top: 0px;
+   margin-left: 0px;
+   width: 725px;
+   z-index: 6;
+   top: 442px;
+   left: 122px;
+   position: absolute;
+}
+
+#adrestext  {
+   margin-top: 0px;
+   margin-left: 0px;
+   width: 748px;
+   z-index: 6;
+   top: 909px;
+   left: 115px;
+   position: absolute;
+}
+
+#blue2img  {
+   background-repeat: no-repeat;
+   background-image: url(sg_contact_media/blue2img.gif);
+   margin-top: 0px;
+   margin-left: 0px;
+   height: 724px;
+   width: 790px;
+   z-index: 5;
+   top: 381px;
+   left: 77px;
+   position: absolute;
+}
+
+#hourtext  {
+   margin-top: 0px;
+   margin-left: 0px;
+   width: 736px;
+   z-index: 6;
+   top: 1041px;
+   left: 118px;
+   position: absolute;
+}
+
+#contactg  {
+   background-repeat: no-repeat;
+   background-image: url(sg_contact_media/contactg.gif);
+   margin-top: 0px;
+   margin-left: 0px;
+   height: 15px;
+   width: 111px;
+   z-index: 6;
+   top: 302px;
+   left: 81px;
+   position: absolute;
+}
+
+fieldset *  {
+   margin-right: 0;
+   margin-left: 0;
+   padding-bottom: 0;
+   padding-top: 0;
+}
+

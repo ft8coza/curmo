@@ -1,0 +1,25 @@
+#researchbutton div a  {
+   background-image: url(sg_directors_media/researchbutton.gif);
+}
+
+#trainingbutton div a  {
+   background-image: url(sg_directors_media/trainingbutton.gif);
+}
+
+#directorbutton div a  {
+   background-image: url(sg_directors_media/directorbutton.gif);
+}
+
+#dirctorsg  {
+   background-repeat: no-repeat;
+   background-image: url(sg_directors_media/dirctorsg.gif);
+   margin-top: 0px;
+   margin-left: 0px;
+   height: 15px;
+   width: 248px;
+   z-index: 6;
+   top: 298px;
+   left: 81px;
+   position: absolute;
+}
+

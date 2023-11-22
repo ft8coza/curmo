@@ -1,0 +1,12 @@
+.lifetext p a,
+.hunantext p a,
+.materialtext p a,
+.enterprisestext p a,
+.technologytext p a,
+.agriculturetext p a,
+.pricestext p a,
+.naturaktext p a,
+.numeracytext p a  {
+   display: inline;
+}
+

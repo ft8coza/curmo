@@ -1,0 +1,92 @@
+#directorbutton div a  {
+   background-image: url(sg_aboutus_media/directorbutton.gif);
+}
+
+#trainingbutton div a  {
+   background-image: url(sg_aboutus_media/trainingbutton.gif);
+}
+
+#directorbutton  {
+   z-index: 6;
+}
+
+#trainingbutton  {
+   z-index: 7;
+}
+
+#aboutphotoimg  {
+   background-repeat: no-repeat;
+   background-image: url(sg_aboutus_media/aboutphotoimg.gif);
+   margin-top: 0px;
+   margin-left: 0px;
+   height: 214px;
+   width: 328px;
+   z-index: 5;
+   top: 423px;
+   left: 524px;
+   position: absolute;
+}
+
+#i65about2text  {
+   margin-top: 0px;
+   margin-left: 0px;
+   width: 421px;
+   z-index: 5;
+   top: 415px;
+   left: 79px;
+   position: absolute;
+}
+
+#businesstext  {
+   margin-top: 0px;
+   margin-left: 0px;
+   width: 755px;
+   z-index: 5;
+   top: 954px;
+   left: 81px;
+   position: absolute;
+}
+
+#page_content  {
+   min-height: 1228px;
+}
+
+#i55aboutusg  {
+   background-repeat: no-repeat;
+   background-image: url(sg_aboutus_media/d55aboutusg.gif);
+   margin-top: 0px;
+   margin-left: 0px;
+   height: 15px;
+   width: 219px;
+   z-index: 5;
+   top: 300px;
+   left: 84px;
+   position: absolute;
+}
+
+#businessg  {
+   background-repeat: no-repeat;
+   background-image: url(sg_aboutus_media/businessg.gif);
+   margin-top: 0px;
+   margin-left: 0px;
+   height: 15px;
+   width: 157px;
+   z-index: 5;
+   top: 922px;
+   left: 80px;
+   position: absolute;
+}
+
+#missiong  {
+   background-repeat: no-repeat;
+   background-image: url(sg_aboutus_media/missiong.gif);
+   margin-top: 0px;
+   margin-left: 0px;
+   height: 15px;
+   width: 187px;
+   z-index: 5;
+   top: 701px;
+   left: 81px;
+   position: absolute;
+}
+

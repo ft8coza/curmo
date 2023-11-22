@@ -1,0 +1,95 @@
+#shouldyourequirefurtherin  {
+   margin-top: 0px;
+   margin-left: 0px;
+   width: 782px;
+   z-index: 5;
+   top: 1105px;
+   left: 80px;
+   position: absolute;
+}
+
+#researchbutton div a  {
+   background-image: url(sg_training_media/researchbutton.gif);
+}
+
+#trainingbutton div a  {
+   background-image: url(sg_training_media/trainingbutton.gif);
+}
+
+#directorbutton div a  {
+   background-image: url(sg_training_media/directorbutton.gif);
+}
+
+#i159cvwillembutton  {
+   margin-top: 0px;
+   margin-left: 0px;
+   height: 10px;
+   width: 81px;
+   z-index: 5;
+   top: 1157px;
+   left: 78px;
+   position: absolute;
+   text-align: justify;
+   font-family: Futura, sans-serif;
+   font-size: 14px;
+   font-weight: 500;
+   line-height: 17px;
+}
+
+#qualifactions1text  {
+   margin-top: 0px;
+   margin-left: 0px;
+   width: 163px;
+   z-index: 5;
+   top: 380px;
+   left: 722px;
+   position: absolute;
+}
+
+#trainingtext  {
+   margin-top: 0px;
+   margin-left: 0px;
+   width: 624px;
+   z-index: 5;
+   top: 333px;
+   left: 78px;
+   position: absolute;
+}
+
+#page_content  {
+   min-height: 1228px;
+}
+
+#standardtext  {
+   margin-top: 0px;
+   margin-left: 0px;
+   width: 78px;
+   z-index: 5;
+   top: 905px;
+   left: 806px;
+   position: absolute;
+}
+
+#skillstext  {
+   margin-top: 0px;
+   margin-left: 0px;
+   width: 71px;
+   z-index: 5;
+   top: 603px;
+   left: 808px;
+   position: absolute;
+}
+
+#trainingg  {
+   background-repeat: no-repeat;
+   background-image: url(sg_training_media/trainingg.gif);
+   margin-top: 0px;
+   margin-left: 0px;
+   height: 15px;
+   width: 170px;
+   z-index: 6;
+   top: 303px;
+   left: 79px;
+   position: absolute;
+}
+

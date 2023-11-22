@@ -1,0 +1,8 @@
+.shouldyourequirefurtherin p a,
+.qualifactions1text p a,
+.skillstext p a,
+.standardtext p a,
+.trainingtext p a  {
+   display: inline;
+}
+

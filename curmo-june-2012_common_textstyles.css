@@ -1,0 +1,640 @@
+.standardtext p,
+.productstext p,
+.i44about2text p,
+.technologytext li,
+.naturaktext p,
+.adrestext p,
+.willemtext p,
+.shouldyourequirefurtherin li,
+.designedtext li,
+.modeltext li,
+.i44about2text li,
+.agriculturetext p,
+.lifetext li,
+.contact3text li,
+.externaltext p,
+.maritatext li,
+.developmenttext p,
+.ruraltext li,
+.welcome1text p,
+.agriculturetext li,
+.projectstext p,
+.designedtext p,
+.welcome1text li,
+.skillstext p,
+.possibletext p,
+.designed4text li,
+.designed3text li,
+.productstext li,
+.trainingtext li,
+.numeracytext li,
+.hourtext p,
+.ruraltext p,
+.missiontext li,
+.copy3text p,
+.about1text p,
+.contact3text p,
+.materialtext li,
+.copy4text p,
+.qualifactions1text p,
+.adrestext li,
+.petrustext p,
+.about3text p,
+.contact1text li,
+.hunantext li,
+.developmenttext li,
+.contact1text p,
+.shouldyourequirefurtherin p,
+.projectstext li,
+.naturaktext li,
+.pricestext p,
+.about1text li,
+.maritatext p,
+.hunantext p,
+.trainingtext p,
+.businesstext p,
+.about3text li,
+.orderform li,
+.skillstext li,
+.numeracytext p,
+.copy4text li,
+.copy3text li,
+.thankyoutext p,
+.pricestext li,
+.technologytext p,
+.lifetext p,
+.orderform p,
+.standardtext li,
+.contacttext p,
+.research3text p,
+.research2text p,
+.research1text p,
+.missiontext p,
+.copytext li,
+.possibletext li,
+.externaltext li,
+.willemtext li,
+.modeltext p,
+.hourtext li,
+.businesstext li,
+.research3text li,
+.research2text li,
+.research1text li,
+.enterprisestext p,
+.designed3text p,
+.designed4text p,
+.copytext p,
+.thankyoutext li,
+.enterprisestext li,
+.qualifactions1text li,
+.contacttext li,
+.i34about2text p,
+.petrustext li,
+.materialtext p,
+.i34about2text li  {
+   font: normal 500 14px Futura, sans-serif;
+   padding: 0px;
+   margin: 0px;
+   letter-spacing: 0px;
+   font-variant: normal;
+   text-decoration: none;
+   color: #200E65;
+   text-indent: 0px;
+}
+
+.designedtext p a,
+.designed3text p a,
+.designed4text p a,
+.copy3text p a,
+.copy4text p a,
+.copytext p a  {
+   display: inline;
+}
+
+.shouldyourequirefurtherin li  {
+   text-align: justify;
+   line-height: 17px;
+}
+
+.shouldyourequirefurtherin p  {
+   text-align: justify;
+   line-height: 17px;
+}
+
+.home3text p,
+.home3text li  {
+   font: normal 500 13px/16px Futura, sans-serif;
+   padding: 0px;
+   margin: 0px;
+   text-indent: 0px;
+   text-align: left;
+   letter-spacing: 2px;
+   font-variant: normal;
+   text-decoration: none;
+   color: #044364;
+}
+
+.qualifactions1text li  {
+   text-align: justify;
+   line-height: 17px;
+}
+
+.qualifactions1text p  {
+   text-align: justify;
+   line-height: 17px;
+}
+
+.agriculturetext li  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.developmenttext li  {
+   text-align: justify;
+   line-height: 17px;
+   font-style: italic;
+}
+
+.enterprisestext li  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.agriculturetext p  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.enterprisestext p  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.developmenttext p  {
+   text-align: justify;
+   line-height: 17px;
+   font-style: italic;
+}
+
+.technologytext li  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.research2text li  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.research3text li  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.research1text li  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.technologytext p  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.i34about2text li  {
+   text-align: left;
+   font-size: 13px;
+   line-height: 16px;
+   color: #044364;
+}
+
+.designed4text li  {
+   text-align: left;
+   font-size: 12px;
+   line-height: 14px;
+   color: #FFFFFF;
+}
+
+.designed3text li  {
+   text-align: left;
+   font-size: 12px;
+   line-height: 14px;
+   color: #FFFFFF;
+}
+
+.i44about2text li  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.possibletext li  {
+   text-align: justify;
+   line-height: 17px;
+}
+
+.numeracytext li  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.trainingtext li  {
+   text-align: justify;
+   line-height: 17px;
+}
+
+.thankyoutext li  {
+   text-align: center;
+   line-height: 29px;
+   font-size: 24px;
+   color: #044364;
+}
+
+.research3text p  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.projectstext li  {
+   line-height: 24px;
+   text-align: justify;
+}
+
+.contact3text li  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.i34about2text p  {
+   text-align: left;
+   font-size: 13px;
+   line-height: 16px;
+   color: #044364;
+}
+
+.businesstext li  {
+   line-height: 17px;
+   text-align: left;
+}
+
+.research1text p  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.research2text p  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.materialtext li  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.externaltext li  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.i44about2text p  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.designed3text p  {
+   text-align: left;
+   font-size: 12px;
+   line-height: 14px;
+   color: #FFFFFF;
+}
+
+.contact1text li  {
+   text-align: left;
+   font-size: 18px;
+   line-height: 16px;
+}
+
+.designedtext li  {
+   text-align: left;
+   font-size: 12px;
+   line-height: 14px;
+   color: #FFFFFF;
+}
+
+.welcome1text li  {
+   text-align: center;
+   line-height: 17px;
+   color: #044364;
+}
+
+.standardtext li  {
+   text-align: justify;
+   line-height: 17px;
+}
+
+.designed4text p  {
+   text-align: left;
+   font-size: 12px;
+   line-height: 14px;
+   color: #FFFFFF;
+}
+
+.productstext li  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.standardtext p  {
+   text-align: justify;
+   line-height: 17px;
+}
+
+.contact3text p  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.designedtext p  {
+   text-align: left;
+   font-size: 12px;
+   line-height: 14px;
+   color: #FFFFFF;
+}
+
+.possibletext p  {
+   text-align: justify;
+   line-height: 17px;
+}
+
+.numeracytext p  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.externaltext p  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.businesstext p  {
+   line-height: 17px;
+   text-align: left;
+}
+
+.productstext p  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.thankyoutext p  {
+   text-align: center;
+   line-height: 29px;
+   font-size: 24px;
+   color: #044364;
+}
+
+.contact1text p  {
+   text-align: left;
+   font-size: 18px;
+   line-height: 16px;
+}
+
+.naturaktext li  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.materialtext p  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.projectstext p  {
+   line-height: 24px;
+   text-align: justify;
+}
+
+.missiontext li  {
+   line-height: 17px;
+   text-align: left;
+}
+
+.contacttext li  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.trainingtext p  {
+   text-align: justify;
+   line-height: 17px;
+}
+
+.welcome1text p  {
+   text-align: center;
+   line-height: 17px;
+   color: #044364;
+}
+
+.pricestext li  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.petrustext li  {
+   text-align: justify;
+   line-height: 17px;
+}
+
+.missiontext p  {
+   line-height: 17px;
+   text-align: left;
+}
+
+.contacttext p  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.maritatext li  {
+   text-align: justify;
+   line-height: 17px;
+}
+
+.willemtext li  {
+   text-align: justify;
+   line-height: 17px;
+}
+
+.naturaktext p  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.about1text li  {
+   text-align: justify;
+   line-height: 17px;
+}
+
+.about3text li  {
+   line-height: 17px;
+   text-align: left;
+   color: #044364;
+}
+
+.skillstext li  {
+   text-align: justify;
+   line-height: 17px;
+}
+
+.about1text p  {
+   text-align: justify;
+   line-height: 17px;
+}
+
+.petrustext p  {
+   text-align: justify;
+   line-height: 17px;
+}
+
+.modeltext li  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.copy3text li  {
+   text-align: left;
+   font-size: 12px;
+   line-height: 14px;
+   color: #FFFFFF;
+}
+
+.adrestext li  {
+   text-align: center;
+   line-height: 16px;
+}
+
+.hunantext li  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.skillstext p  {
+   text-align: justify;
+   line-height: 17px;
+}
+
+.about3text p  {
+   line-height: 17px;
+   text-align: left;
+   color: #044364;
+}
+
+.maritatext p  {
+   text-align: justify;
+   line-height: 17px;
+}
+
+.pricestext p  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.orderform li  {
+   text-align: left;
+   font-size: 15px;
+   line-height: 18px;
+   color: #2A1771;
+}
+
+.copy4text li  {
+   text-align: left;
+   font-size: 12px;
+   line-height: 14px;
+   color: #FFFFFF;
+}
+
+.ruraltext li  {
+   text-align: justify;
+   line-height: 17px;
+}
+
+.willemtext p  {
+   text-align: justify;
+   line-height: 17px;
+}
+
+.copytext li  {
+   text-align: left;
+   font-size: 12px;
+   line-height: 14px;
+   color: #FFFFFF;
+}
+
+.hunantext p  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.lifetext li  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.ruraltext p  {
+   text-align: justify;
+   line-height: 17px;
+}
+
+.adrestext p  {
+   text-align: center;
+   line-height: 16px;
+}
+
+.modeltext p  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.copy4text p  {
+   text-align: left;
+   font-size: 12px;
+   line-height: 14px;
+   color: #FFFFFF;
+}
+
+.orderform p  {
+   text-align: left;
+   font-size: 15px;
+   line-height: 18px;
+   color: #2A1771;
+}
+
+.hourtext li  {
+   text-align: center;
+   line-height: 17px;
+}
+
+.copy3text p  {
+   text-align: left;
+   font-size: 12px;
+   line-height: 14px;
+   color: #FFFFFF;
+}
+
+.lifetext p  {
+   line-height: 17px;
+   text-align: justify;
+}
+
+.hourtext p  {
+   text-align: center;
+   line-height: 17px;
+}
+
+.copytext p  {
+   text-align: left;
+   font-size: 12px;
+   line-height: 14px;
+   color: #FFFFFF;
+}
+

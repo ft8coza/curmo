@@ -1,0 +1,43 @@
+#researchbutton div a  {
+   background-image: url(sg_products_media/researchbutton.gif);
+}
+
+#trainingbutton div a  {
+   background-image: url(sg_products_media/trainingbutton.gif);
+}
+
+#directorbutton div a  {
+   background-image: url(sg_products_media/directorbutton.gif);
+}
+
+#researchbutton  {
+   z-index: 7;
+}
+
+#page_content  {
+   min-height: 886px;
+}
+
+#productstext  {
+   margin-top: 0px;
+   margin-left: 0px;
+   width: 778px;
+   z-index: 5;
+   top: 336px;
+   left: 79px;
+   position: absolute;
+}
+
+#productsg  {
+   background-repeat: no-repeat;
+   background-image: url(sg_products_media/productsg.gif);
+   margin-top: 0px;
+   margin-left: 0px;
+   height: 15px;
+   width: 220px;
+   z-index: 6;
+   top: 306px;
+   left: 81px;
+   position: absolute;
+}
+

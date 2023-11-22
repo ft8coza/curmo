@@ -1,0 +1,133 @@
+#copytext,
+#designedtext,
+#directorbutton  {
+   z-index: 5;
+}
+
+#researchbutton div a  {
+   background-image: url(sg_materials_media/researchbutton.gif);
+}
+
+#i180materialtext  {
+   margin-top: 0px;
+   margin-left: 0px;
+   width: 400px;
+   z-index: 5;
+   top: 393px;
+   left: 80px;
+   position: absolute;
+}
+
+#i430materialtext  {
+   margin-top: 0px;
+   margin-left: 0px;
+   width: 779px;
+   z-index: 5;
+   top: 1251px;
+   left: 80px;
+   position: absolute;
+}
+
+#trainingbutton  {
+   z-index: 6;
+}
+
+#researchbutton  {
+   z-index: 7;
+}
+
+#developedgcopy  {
+   background-repeat: no-repeat;
+   background-image: url(sg_materials_media/developedgcopy.gif);
+   margin-top: 0px;
+   margin-left: 0px;
+   height: 15px;
+   width: 176px;
+   z-index: 6;
+   top: 1219px;
+   left: 83px;
+   position: absolute;
+}
+
+#layer12copy11  {
+   background-repeat: no-repeat;
+   background-image: url(sg_materials_media/layer12copy11.gif);
+   margin-top: 0px;
+   margin-left: 0px;
+   height: 26px;
+   width: 209px;
+   z-index: 5;
+   top: 1212px;
+   left: 60px;
+   position: absolute;
+}
+
+#page_content  {
+   min-height: 1458px;
+}
+
+#materialsimg  {
+   background-repeat: no-repeat;
+   background-image: url(sg_materials_media/materialsimg.gif);
+   margin-top: 0px;
+   margin-left: 0px;
+   height: 506px;
+   width: 782px;
+   z-index: 6;
+   top: 676px;
+   left: 79px;
+   position: absolute;
+}
+
+#layer12copy9  {
+   background-repeat: no-repeat;
+   background-image: url(sg_materials_media/layer12copy9.gif);
+   margin-top: 0px;
+   margin-left: 0px;
+   height: 26px;
+   width: 760px;
+   z-index: 5;
+   top: 636px;
+   left: 56px;
+   position: absolute;
+}
+
+#materialimg  {
+   background-repeat: no-repeat;
+   background-image: url(sg_materials_media/materialimg.gif);
+   margin-top: 0px;
+   margin-left: 0px;
+   height: 199px;
+   width: 293px;
+   z-index: 5;
+   top: 391px;
+   left: 527px;
+   position: absolute;
+}
+
+#developedg  {
+   background-repeat: no-repeat;
+   background-image: url(sg_materials_media/developedg.gif);
+   margin-top: 0px;
+   margin-left: 0px;
+   height: 17px;
+   width: 683px;
+   z-index: 6;
+   top: 642px;
+   left: 83px;
+   position: absolute;
+}
+
+#materialg  {
+   background-repeat: no-repeat;
+   background-image: url(sg_materials_media/materialg.gif);
+   margin-top: 0px;
+   margin-left: 0px;
+   height: 15px;
+   width: 212px;
+   z-index: 6;
+   top: 347px;
+   left: 80px;
+   position: absolute;
+}
+

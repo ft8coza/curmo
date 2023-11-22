@@ -1,0 +1,47 @@
+#orderform fieldset {
+border: none; padding:10px; margin:2px; }
+
+#orderform fieldset legend {
+ }
+
+#orderform fieldset div label {
+ }
+
+#orderform fieldset div *:focus {
+ }
+
+#orderform fieldset div input,
+#orderform fieldset div textarea {
+ }
+
+#orderform fieldset div input.hinted {
+  background-color: #EEEEFF;
+  color: #323232;
+ }
+
+#orderform fieldset div input[type=checkbox]  {
+   width: 20px;
+   height: 15px;
+   background: none;
+   border: none;
+}
+
+#orderform fieldset div.centerac  {
+   position: relative;
+   left: 362px;
+   width: 332px;
+}
+
+#orderform fieldset div .fmr  {
+   width: 332px;
+   text-align: left;
+}
+
+#orderform fieldset div .fml  {
+   margin-right: 8px;
+   display: block;
+   text-align: right;
+   float: left;
+   width: 338px;
+}
+

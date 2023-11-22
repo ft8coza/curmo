@@ -1,0 +1,9 @@
+.hourtext p a,
+.contact1text p a,
+.contacttext p a,
+.adrestext p a,
+.contact3text p a,
+.orderform p a  {
+   display: inline;
+}
+

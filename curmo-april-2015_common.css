@@ -1,0 +1,636 @@
+#aboutbutton a.pm,
+#researchbutton div a.nmh,
+#directorbutton div a:hover,
+#aboutbutton a.pmh,
+#aboutbutton a:hover,
+#researchbutton div a:hover,
+#directorbutton div a.nmh,
+#aboutbutton a.nmh  {
+   background-position: -108px 0%;
+}
+
+#trainingbutton div a.nmh,
+#productsbutton a.pm,
+#trainingbutton div a:hover,
+#productsbutton a:hover,
+#productsbutton a.pmh,
+#productsbutton a.nmh  {
+   background-position: -179px 0%;
+}
+
+#orderform fieldset div label,
+#orderform fieldset legend,
+#orderform fieldset div input,
+#orderform fieldset div textarea  {
+   font: normal normal 14px/17px Arial, Helvetica, sans-serif;
+   color: #2A1771;
+   text-decoration: none;
+   font-variant: normal;
+   letter-spacing: 0px;
+}
+
+#trainingbutton > div:first-child,
+#researchbutton > div:first-child,
+#directorbutton > div:first-child  {
+   top: 0px;
+   left: 0px;
+   padding: 0px;
+   margin: 0px;
+   position: relative;
+   display: block;
+   height: 38px;
+}
+
+#i157blueimg,
+#i144blueimg,
+#i105blueimg,
+#blue1img,
+#i94blueimg,
+#layer12copy8  {
+   background: url(sg_directors_media/d94blueimg.gif) no-repeat;
+   position: absolute;
+   left: 59px;
+   z-index: 5;
+   width: 289px;
+   height: 26px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#directorbutton div a,
+#researchbutton div a,
+#aboutbutton a  {
+   background-repeat: no-repeat;
+   display: block;
+   height: 38px;
+   width: 108px;
+   font-size: 38px;
+   line-height: 38px;
+}
+
+#projectsbutton a.nmh,
+#projectsbutton a:hover  {
+   background-position: -164px 0%;
+}
+
+#materialbutton a:hover,
+#materialbutton a.nmh  {
+   background-position: -195px 0%;
+}
+
+#contactbutton a.nmh,
+#contactbutton a:hover  {
+   background-position: -113px 0%;
+}
+
+#projectsbutton,
+#homebutton,
+#aboutbutton  {
+   position: absolute;
+   top: 238px;
+   z-index: 6;
+   height: 38px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#farmbutton,
+#coursebutton,
+#report1button  {
+   line-height: 17px;
+   font-weight: 500;
+   font-size: 14px;
+   font-family: Futura, sans-serif;
+   text-align: justify;
+   position: absolute;
+   z-index: 5;
+   height: 11px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#trainingbutton div a,
+#productsbutton a  {
+   background-repeat: no-repeat;
+   display: block;
+   height: 38px;
+   width: 179px;
+   font-size: 38px;
+   line-height: 38px;
+}
+
+#homebutton a:hover,
+#homebutton a.nmh  {
+   background-position: -68px 0%;
+}
+
+#bkg2img,
+#bkg5img,
+#bkg1img,
+#bkg3img  {
+   position: absolute;
+   left: 59px;
+   top: 221px;
+   z-index: 4;
+   width: 827px;
+   margin-left: 0px;
+   margin-top: 0px;
+   background-repeat: no-repeat;
+}
+
+#i101cvwillembutton,
+#cvmaritabutton  {
+   line-height: 17px;
+   font-weight: 500;
+   font-size: 14px;
+   font-family: Futura, sans-serif;
+   text-align: justify;
+   position: absolute;
+   z-index: 5;
+   width: 131px;
+   height: 12px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#homenewsbutton,
+#homeproductbutton  {
+   line-height: 16px;
+   font-weight: 500;
+   font-size: 13px;
+   font-family: Futura, sans-serif;
+   text-align: left;
+   position: absolute;
+   top: 672px;
+   z-index: 5;
+   height: 10px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#researchbutton > div:first-child  {
+   width: 108px;
+}
+
+#trainingbutton > div:first-child  {
+   width: 179px;
+}
+
+#directorbutton > div:first-child  {
+   width: 108px;
+}
+
+#materialbutton,
+#productsbutton  {
+   position: absolute;
+   top: 238px;
+   z-index: 7;
+   height: 38px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#researchbutton,
+#directorbutton  {
+   overflow: hidden;
+   position: absolute;
+   left: 127px;
+   width: 108px;
+   height: 38px;
+   display: none;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#contacttext,
+#research1text  {
+   position: absolute;
+   left: 79px;
+   z-index: 5;
+   width: 776px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#i71about1text,
+#missiontext  {
+   position: absolute;
+   left: 80px;
+   z-index: 5;
+   width: 755px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#externaltext,
+#ruraltext  {
+   position: absolute;
+   left: 79px;
+   z-index: 5;
+   width: 786px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#maritatext,
+#willemtext  {
+   position: absolute;
+   left: 367px;
+   z-index: 5;
+   width: 457px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#willemimg,
+#maritaimg  {
+   position: absolute;
+   left: 149px;
+   z-index: 5;
+   width: 135px;
+   height: 166px;
+   margin-left: 0px;
+   margin-top: 0px;
+   background-repeat: no-repeat;
+}
+
+#researchbutton div a  {
+   background-image: url(sg_thankyou_media/researchbutton.gif);
+}
+
+#directorbutton div a  {
+   background-image: url(sg_thankyou_media/directorbutton.gif);
+}
+
+#trainingbutton div a  {
+   background-image: url(sg_thankyou_media/trainingbutton.gif);
+}
+
+#i101cvwillembutton  {
+   top: 479px;
+   left: 369px;
+}
+
+#homeproductbutton  {
+   width: 177px;
+   left: 98px;
+}
+
+#materialbutton a  {
+   background: url(sg_home_media/materialbutton.gif) no-repeat;
+   display: block;
+   height: 38px;
+   width: 195px;
+   font-size: 38px;
+   line-height: 38px;
+}
+
+#projectsbutton a  {
+   background: url(sg_home_media/projectsbutton.gif) no-repeat;
+   display: block;
+   height: 38px;
+   width: 164px;
+   font-size: 38px;
+   line-height: 38px;
+}
+
+#productsbutton a  {
+   background-image: url(sg_home_media/productsbutton.gif);
+}
+
+#contactbutton a  {
+   background: url(sg_home_media/contactbutton.gif) no-repeat;
+   display: block;
+   height: 38px;
+   width: 113px;
+   font-size: 38px;
+   line-height: 38px;
+}
+
+#cvmaritabutton  {
+   top: 681px;
+   left: 367px;
+}
+
+#researchbutton  {
+   z-index: 6;
+   top: 319px;
+}
+
+#directorbutton  {
+   z-index: 7;
+   top: 278px;
+}
+
+#homenewsbutton  {
+   width: 141px;
+   left: 448px;
+}
+
+#projectsbutton  {
+   width: 164px;
+   left: 414px;
+}
+
+#materialbutton  {
+   width: 195px;
+   left: 578px;
+}
+
+#productsbutton  {
+   width: 179px;
+   left: 235px;
+}
+
+#trainingbutton  {
+   overflow: hidden;
+   position: absolute;
+   left: 235px;
+   top: 278px;
+   z-index: 8;
+   width: 179px;
+   height: 38px;
+   display: none;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#research1text  {
+   top: 330px;
+}
+
+#i71about1text  {
+   top: 331px;
+}
+
+#report1button  {
+   width: 67px;
+   top: 2428px;
+   left: 237px;
+}
+
+#designed3text  {
+   position: absolute;
+   left: 656px;
+   top: 1211px;
+   z-index: 4;
+   width: 228px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#contactbutton  {
+   position: absolute;
+   left: 773px;
+   top: 238px;
+   z-index: 8;
+   width: 113px;
+   height: 38px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#aboutbutton a  {
+   background-image: url(sg_home_media/aboutbutton.gif);
+}
+
+#homebannerimg  {
+   background: url(sg_home_media/homebannerimg.gif) no-repeat;
+   position: absolute;
+   left: 59px;
+   top: 0px;
+   z-index: 5;
+   width: 826px;
+   height: 221px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#designedtext  {
+   position: absolute;
+   left: 654px;
+   top: 728px;
+   z-index: 4;
+   width: 228px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#layer12copy8  {
+   top: 342px;
+}
+
+#page_content  {
+   min-height: 745px;
+}
+
+#homebutton a  {
+   background: url(sg_home_media/homebutton.gif) no-repeat;
+   display: block;
+   height: 38px;
+   width: 68px;
+   font-size: 38px;
+   line-height: 38px;
+}
+
+#externaltext  {
+   top: 2321px;
+}
+
+#coursebutton  {
+   width: 201px;
+   top: 849px;
+   left: 83px;
+}
+
+#aboutbutton  {
+   width: 108px;
+   left: 127px;
+}
+
+#i144blueimg  {
+   top: 299px;
+}
+
+#i105blueimg  {
+   top: 293px;
+}
+
+#i157blueimg  {
+   top: 297px;
+   left: 60px;
+}
+
+#i168blueimg  {
+   background: url(sg_project_media/d168blueimg.gif) no-repeat;
+   position: absolute;
+   left: 59px;
+   top: 291px;
+   z-index: 5;
+   width: 312px;
+   height: 26px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#contacttext  {
+   top: 332px;
+}
+
+#missiontext  {
+   top: 730px;
+}
+
+#i94blueimg  {
+   top: 291px;
+}
+
+#willemtext  {
+   top: 325px;
+}
+
+#farmbutton  {
+   width: 67px;
+   top: 2256px;
+   left: 217px;
+}
+
+#homebutton  {
+   width: 68px;
+   left: 58px;
+}
+
+#maritatext  {
+   top: 521px;
+}
+
+#copy3text  {
+   position: absolute;
+   left: 73px;
+   top: 1211px;
+   z-index: 4;
+   width: 288px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#maritaimg  {
+   background-image: url(sg_directors_media/maritaimg.gif);
+   top: 526px;
+}
+
+#willemimg  {
+   background-image: url(sg_directors_media/willemimg.gif);
+   top: 329px;
+}
+
+#ruraltext  {
+   top: 1506px;
+}
+
+#copytext  {
+   position: absolute;
+   left: 80px;
+   top: 727px;
+   z-index: 4;
+   width: 288px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#stripimg  {
+   background: url(sg_home_media/stripimg.gif) no-repeat;
+   position: absolute;
+   left: 58px;
+   top: 238px;
+   z-index: 5;
+   width: 827px;
+   height: 38px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+
+#blue1img  {
+   top: 296px;
+}
+
+#bkg3img  {
+   background-image: url(sg_products_media/bkg3img.gif);
+   height: 665px;
+}
+
+#bkg1img  {
+   background-image: url(sg_home_media/bkg1img.gif);
+   height: 502px;
+}
+
+#bkg2img  {
+   background-image: url(sg_aboutus_media/bkg2img.gif);
+   height: 981px;
+}
+
+#bkg5img  {
+   background-image: url(sg_materials_media/bkg5img.gif);
+   height: 1237px;
+}
+
+.page_content_bkg  {
+   position: absolute;
+   z-index: 1;
+   width: 950px;
+   left: 0px;
+   top: 0px;
+   display: block;
+}
+
+.container_div  {
+   margin: 0px auto 0px auto;
+   width: 950px;
+   position: relative;
+}
+
+.spacing_div  {
+   height: 0px;
+   min-height: 0px;
+}
+
+*:focus  {
+   outline-style: none;
+}
+
+.full_width  {
+   min-width: 950px;
+   margin: 0px;
+   padding: 0px;
+   position: relative;
+}
+
+.c66FECB a  {
+   color: #66FECB;
+}
+
+.c80DEBF a  {
+   color: #80DEBF;
+}
+
+a.nm  {
+   background-position: 0px 0px;
+}
+
+ains  {
+   text-decoration: none;
+}
+
+body  {
+   padding: 0px;
+   margin: 0px;
+   height: 100%;
+   -webkit-text-size-adjust: none;
+}
+
+html, body  {
+   background: #FFFFFF url(sg_home_media/browserbackground.gif) center top repeat;
+   background-attachment: scroll;
+   height: 100%;
+}
+
